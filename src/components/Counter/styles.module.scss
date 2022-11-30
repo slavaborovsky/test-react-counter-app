@@ -1,0 +1,19 @@
+.count-label {
+  font-size: 28px;
+}
+
+.change-time {
+  color: mediumpurple;
+}
+
+.count {
+  color: darkolivegreen;
+}
+
+.offset-input {
+  margin-left: 10px;
+
+  &::placeholder {
+    color: #ff0000;
+  }
+}
